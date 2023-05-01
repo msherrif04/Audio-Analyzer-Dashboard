@@ -25,7 +25,7 @@ In this section, I include all the necessary dependencies needed to reproduce th
 
 # Data
 ## Source Data
-- **Audio file: ** [How to Enter UK Specialty Training WITHOUT NHS Experience](https://www.youtube.com/watch?v=YRxtI9Ot_7g&t=5s&pp=ygUDbmhz)
+- **Audio file:** [How to Enter UK Specialty Training WITHOUT NHS Experience](https://www.youtube.com/watch?v=YRxtI9Ot_7g&t=5s&pp=ygUDbmhz)
 # Future work
 * Make it accept a url and provide the same dashboard for the provided url
 
